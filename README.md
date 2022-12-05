@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">Me considero muy emprendedor por lo que cuando de lograr mis objetivos se trata me esfuerzo mucho por conseguirlo; soy muy sociable por lo que también desarrollo el buen trato al cliente, facilidad de expresión, la responsabilidad es uno de mis valores más relevantes de mi personalidad y promuevo el trabajo en equipo. Dentro de mis aspectos intelectuales que poseo es que retengo información con facilidad y me gusta el fútbol.</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <!--
 **AnthonyBrayan/anthonybrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
